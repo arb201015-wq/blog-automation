@@ -1,1 +1,10 @@
-
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pydrive2
+transformers
+torch
+diffusers
+accelerate
+Pillow
