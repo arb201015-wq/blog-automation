@@ -8,3 +8,5 @@ torch
 diffusers
 accelerate
 Pillow
+requests
+beautifulsoup4
